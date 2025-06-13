@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Anggaran
+comment1.params=idAnggaran\ kategori\ batas\ akun
+comment1.target=Anggaran(java.lang.String,\ Kategori,\ double,\ AkunPengguna)
+comment2.params=
+comment2.target=java.lang.String\ getIdAnggaran()
+comment3.params=
+comment3.target=Kategori\ getKategori()
+comment4.params=
+comment4.target=double\ getBatas()
+comment5.params=
+comment5.target=AkunPengguna\ getAkun()
+numComments=6

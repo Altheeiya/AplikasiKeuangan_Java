@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LaporanKeuangan
+comment1.params=idLaporan\ periode\ totalPemasukan\ totalPengeluaran\ saldoAkhir\ akun
+comment1.target=LaporanKeuangan(java.lang.String,\ java.lang.String,\ double,\ double,\ double,\ AkunPengguna)
+comment2.params=
+comment2.target=void\ tampilkanLaporan()
+numComments=3

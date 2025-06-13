@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Transaksi
+comment1.params=id\ jumlah\ deskripsi\ akun\ tanggal\ jenisTransaksi\ kategori
+comment1.target=Transaksi(java.lang.String,\ double,\ java.lang.String,\ AkunPengguna,\ java.util.Date,\ java.lang.String,\ Kategori)
+comment2.params=
+comment2.target=java.util.Date\ getTanggal()
+comment3.params=
+comment3.target=java.lang.String\ getJenisTransaksi()
+comment4.params=
+comment4.target=Kategori\ getKategori()
+numComments=5

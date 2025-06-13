@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pembayaran
+comment1.params=idPembayaran\ jumlah\ metodePembayaran\ transaksi
+comment1.target=Pembayaran(java.lang.String,\ double,\ java.lang.String,\ Transaksi)
+comment2.params=
+comment2.target=java.lang.String\ getIdPembayaran()
+comment3.params=
+comment3.target=double\ getJumlah()
+comment4.params=
+comment4.target=java.lang.String\ getMetodePembayaran()
+comment5.params=
+comment5.target=Transaksi\ getTransaksi()
+numComments=6

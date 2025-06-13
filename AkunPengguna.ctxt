@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=AkunPengguna
+comment1.params=idAkun\ nama\ email\ saldo
+comment1.target=AkunPengguna(java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getIdAkun()
+comment3.params=
+comment3.target=java.lang.String\ getNama()
+comment4.params=
+comment4.target=java.lang.String\ getEmail()
+comment5.params=
+comment5.target=double\ getSaldo()
+comment6.params=
+comment6.target=java.util.List\ getTransaksiList()
+comment7.params=transaksi
+comment7.target=void\ tambahTransaksi(Transaksi)
+numComments=8
