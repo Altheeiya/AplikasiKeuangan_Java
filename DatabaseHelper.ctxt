@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=DatabaseHelper
+comment0.text=\r\n\ Kelas\ ini\ bertanggung\ jawab\ untuk\ semua\ komunikasi\ dengan\ database\ SQLite.\r\n\ Mengelola\ koneksi,\ pembuatan\ tabel,\ dan\ operasi\ CRUD\ (Create,\ Read,\ Update,\ Delete).\r\n
+comment1.params=
+comment1.target=java.sql.Connection\ connect()
+comment1.text=\r\n\ Membuat\ koneksi\ ke\ database.\r\n\ @return\ Objek\ Connection\ yang\ aktif\ atau\ null\ jika\ gagal.\r\n
+comment10.params=transaksi
+comment10.target=void\ updateTransaksi(Transaksi)
+comment2.params=
+comment2.target=void\ initializeDatabase()
+comment2.text=\r\n\ Inisialisasi\ database.\ Membuat\ semua\ tabel\ yang\ diperlukan\ jika\ belum\ ada.\r\n\ Wajib\ dipanggil\ sekali\ saat\ aplikasi\ pertama\ kali\ dijalankan.\r\n
+comment3.params=kategori
+comment3.target=void\ insertKategori(Kategori)
+comment4.params=anggaran
+comment4.target=void\ insertAnggaran(Anggaran)
+comment5.params=idKategori
+comment5.target=Kategori\ getKategoriById(java.lang.String)
+comment6.params=akun
+comment6.target=java.util.List\ loadAnggaran(AkunPengguna)
+comment7.params=transaksi
+comment7.target=void\ insertTransaksi(Transaksi)
+comment8.params=akun
+comment8.target=java.util.List\ loadTransaksi(AkunPengguna)
+comment9.params=id
+comment9.target=void\ deleteTransaksi(java.lang.String)
+numComments=11
